@@ -1,16 +1,34 @@
-# Analyse des Ventes
+# 📊 Analyse des Ventes
 
-Analyse des ventes par produit, mois et ville avec Python et Pandas.
+Analyse exploratoire des données de ventes par produit, mois et ville.
 
-## Questions analysees
-- Quel est le produit le plus vendu ?
-- Quel est le meilleur mois de ventes ?
-- Quelle ville génère le plus de ventes ?
+## 📈 Visualisations
 
-## Resultats
-- Produit : iPhone en tete avec 2600 unites
-- Mois : Mars avec 2200 ventes
-- Ville : Casablanca avec 2900 ventes
+### Ventes par Produit
 
-## Outils utilises
-- Python, Pandas, Matplotlib
+
+![Produit](ventes_1_produit.png)
+
+
+
+### Ventes par Mois
+
+
+![Mois](ventes_2_mois.png)
+
+
+
+### Ventes par Ville
+
+
+![Ville](ventes_3_ville.png)
+
+
+
+## 🛠️ Technologies utilisées
+- Python
+- Pandas
+- Matplotlib
+
+## 👤 Auteur
+**Chaouch Anouar** — [GitHub](https://github.com/Anouar-analyst)
